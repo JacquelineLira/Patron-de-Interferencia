@@ -3,7 +3,7 @@
 ## Tabla de Contenidos
 * [Información General](#información-general)
 * [Funcionamiento](#funcionamiento)
-* [Tecnologías](#tecnología)
+* [Tecnologías](#tecnologías)
 * [Descarga](#descarga)
 * [Ejemplos](#ejemplos)
 * [Contacto](#contacto)
@@ -17,7 +17,10 @@ El proyecto se creó utilizando la versión **3.8.3** de Python, junto con las s
 * Matplotlib - Versión **3.2.2**
 
 ## Descarga
-Como instalar/descargar
+Para descargar el repositorio, de click en el botón **Code** y seleccione la opción **Download ZIP**. ![](./img/descarga.png)
+Una vez descargado el archivo .zip, extraiga todos los archivos adentro y corra el programa *patron_interferencia.py*
+
+Para clonar el repositorio, siga las [instrucciones](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#:~:text=%20Cloning%20an%20empty%20repository%20%201%20On,and%20then%20paste%20the%20URL%20you...%20More) de Github.
 ## Ejemplos
 Ejemplos de uso
 ## Contacto
