@@ -10,7 +10,10 @@
 ## Información General
 Teoría detrás del proyecto
 ## Funcionamiento
-Como funciona, qué paramétros cambiarle ...
+Dentro del programa, algunos parámetros que se le pueden cambiar son:
+* **D**, la distancia entre la pared y la pantalla
+* **d**, la intensidad entre las dos rendijas
+* **a**, la intensidad de la onda
 ## Tecnologías
 El proyecto se creó utilizando la versión **3.8.3** de Python, junto con las siguientes librerías:
 * Numpy      - Versión **1.18.5**
