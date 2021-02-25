@@ -5,6 +5,7 @@
 * [Funcionamiento](#funcionamiento)
 * [Ejemplos](#ejemplos)
 * [Tecnologías](#tecnologías)
+* [Código](#código)
 * [Instalación](#instalación)
 * [Contacto](#contacto)
 ## Información General
@@ -32,7 +33,28 @@ A continuación se muestra el patrón de interferencia de la onda cuando se vari
 El proyecto se creó utilizando la versión **3.8.3** de Python, junto con las siguientes librerías:
 * Numpy      - Versión **1.18.5**
 * Matplotlib - Versión **3.2.2**
+## Código
+El código siguiente muestra cómo se calculo la intensidad de la onda conjunta en un punto **x**.
 
+Primero se calculó la **intensidad** de cada una de las ondas en el punto.
+``` Python
+a_1 = a / pow(pow(D, 2) + pow(x - d, 2), 1 / 4)
+a_2 = a / pow(pow(D, 2) + pow(x + d, 2), 1 / 4)
+```
+Después se calculó el valor de **phi**.
+``` Python
+phi_1 = k * pow(pow(D, 2) + pow(x - d, 2), 1 / 2)
+phi_2 = k * pow(pow(D, 2) + pow(x + d, 2), 1 / 2)
+```
+Posteriormente se calculó la **elevación** de las ondas, esto es, la amplitud de cada una de las ondas individuales.
+``` Python
+elv_1 = a_1 * np.cos(phi_1)
+elv_2 = a_2 * np.cos(phi_2)
+```
+Por último, se obtuvo el **patrón de interferencia**, es decir, la intensidad de la onda en la pared.
+``` Python
+amp = pow(pow(elv_1, 2) + pow(elv_2, 2) + 2 * elv_1 * elv_2 * np.cos(phi_1 - phi_2), 1 / 2)
+```
 ## Instalación
 ### Descarga ZIP
 Para descargar el repositorio, de click en el botón **Code** y seleccione la opción **Download ZIP**. ![](./img/descarga.png)
