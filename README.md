@@ -11,8 +11,11 @@
 Teoría detrás del proyecto
 ## Funcionamiento
 Como funciona, qué paramétros cambiarle ...
-## Tecnología
-Librerías y demás
+## Tecnologías
+El proyecto se creó utilizando la versión **3.8.3** de Python, junto con las siguientes librerías:
+* Numpy      - Versión **1.18.5**
+* Matplotlib - Versión **3.2.2**
+
 ## Descarga
 Como instalar/descargar
 ## Ejemplos
