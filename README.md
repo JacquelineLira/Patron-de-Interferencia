@@ -7,11 +7,11 @@
 * [Tecnologías](#tecnologías)
 * [Código](#código)
 * [Instalación](#instalación)
-* [Contacto](#contacto)
+
 ## Información General
 <img src="https://github.com/JacquelineLira/Patron-de-Interferencia/blob/main/img/Rendija.PNG" width="400" />
 
-El experimento de la doble rendija, o experimento de Young, es un experimento en dónde se hace pasar una fuente de luz por una pared con dos rendijas. Cada una de estas rendijas produce una nueva onda, como se ve en la imágen anterior. Estas ondas *interfieren* entre si. Cuando las dos ondas están en fase, es decir, sus crestas o sus valles chocan, generann **interferencia constructiva**. En cambio cuando están en desfase, que es cuando la cresta de una choca con el valle de la otra generan **interferencia destructiva**. Cuando las ondas se reinforcan, se obtiene una luz brillante, mientras que cuando se cancelan se genera un punto obscuro, generando lo que se conoce como **patrón de interferencia**.
+El experimento de la doble rendija, o experimento de Young, es un experimento en donde se hace pasar una fuente de luz por una pared con dos rendijas. Cada una de estas rendijas produce una nueva onda, como se ve en la imágen anterior. Estas ondas *interfieren* entre si. Cuando las dos ondas están en fase, es decir, sus crestas o sus valles chocan, generann **interferencia constructiva**. En cambio cuando están en desfase, que es cuando la cresta de una choca con el valle de la otra generan **interferencia destructiva**. Cuando las ondas se refuerzan, se obtiene una luz brillante, mientras que cuando se cancelan se genera un punto obscuro, generando lo que se conoce como **patrón de interferencia**.
 
 <img src="https://github.com/JacquelineLira/Patron-de-Interferencia/blob/main/img/interf.png" width="400" />
 
@@ -66,4 +66,3 @@ Para descargar el repositorio, de click en el botón **Code** y seleccione la op
 Una vez descargado el archivo .zip, extraiga todos los archivos adentro y corra el programa *patron_interferencia.py*
 ### Clonar Repositorio
 Para clonar el repositorio, siga las [instrucciones](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#:~:text=%20Cloning%20an%20empty%20repository%20%201%20On,and%20then%20paste%20the%20URL%20you...%20More) de Github.
-## Contacto
