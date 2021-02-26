@@ -9,7 +9,11 @@
 * [Instalación](#instalación)
 * [Contacto](#contacto)
 ## Información General
-El experimento de la doble rendija, o experimento de Young, es un experimento en dónde se hace pasar una fuente de luz por una pared con dos rendijas. Cada una de estas rendijas produce una nueva onda, como se ve en la imágen inferior. Estas ondas *interfieren* entre ellas, creando un patrón de interferencia. Cuando las dos ondas están en fase, es decir, sus crestas chocan o sus valles chocan, crean **interferencia constructiva**. En cambio cuando la cresta de una choca con el valle de la otra, en desfase, genera **interferencia destructiva**. En dónde las ondas se reinforcan, se obtiene una luz brillante, mientras que en dónde se cancelan se genera un punto obscuro, generando lo que se conoce como **patrón de interferencia**.
+<img src="https://github.com/JacquelineLira/Patron-de-Interferencia/blob/main/img/Rendija.PNG" width="400" />
+
+El experimento de la doble rendija, o experimento de Young, es un experimento en dónde se hace pasar una fuente de luz por una pared con dos rendijas. Cada una de estas rendijas produce una nueva onda, como se ve en la imágen anterior. Estas ondas *interfieren* entre ellas, creando un patrón de interferencia. Cuando las dos ondas están en fase, es decir, sus crestas chocan o sus valles chocan, crean **interferencia constructiva**. En cambio cuando la cresta de una choca con el valle de la otra, en desfase, genera **interferencia destructiva**. En dónde las ondas se reinforcan, se obtiene una luz brillante, mientras que en dónde se cancelan se genera un punto obscuro, generando lo que se conoce como **patrón de interferencia**.
+<img src="https://github.com/JacquelineLira/Patron-de-Interferencia/blob/main/img/interf.png" width="400" />
+
 ## Funcionamiento
 Dentro del programa, algunos parámetros que se le pueden cambiar son:
 * **D**, la distancia entre la pared y la pantalla
