@@ -1,5 +1,5 @@
 # Patron de Interferencia
-> Para este proyecto consideramos el experimento de las rendijas con una fuente de onda. Se calculó el patrón de interferencia que se obtenía cuando se cambiaban diversas variables. Entre estas, se encontraba la distancia a las rendijas y las intensidad de la onda.
+> Para este proyecto consideramos el experimento de las rendijas con una fuente de onda. Se calculó el patrón de interferencia que se obtenía cuando se cambiaban diversas variables, como la distancia a las rendijas y las intensidad de la onda.
 ## Tabla de Contenidos
 * [Información General](#información-general)
 * [Funcionamiento](#funcionamiento)
@@ -11,7 +11,7 @@
 ## Información General
 <img src="https://github.com/JacquelineLira/Patron-de-Interferencia/blob/main/img/Rendija.PNG" width="400" />
 
-El experimento de la doble rendija, o experimento de Young, es un experimento en dónde se hace pasar una fuente de luz por una pared con dos rendijas. Cada una de estas rendijas produce una nueva onda, como se ve en la imágen anterior. Estas ondas *interfieren* entre ellas, creando un patrón de interferencia. Cuando las dos ondas están en fase, es decir, sus crestas chocan o sus valles chocan, crean **interferencia constructiva**. En cambio cuando la cresta de una choca con el valle de la otra, en desfase, genera **interferencia destructiva**. En dónde las ondas se reinforcan, se obtiene una luz brillante, mientras que en dónde se cancelan se genera un punto obscuro, generando lo que se conoce como **patrón de interferencia**.
+El experimento de la doble rendija, o experimento de Young, es un experimento en dónde se hace pasar una fuente de luz por una pared con dos rendijas. Cada una de estas rendijas produce una nueva onda, como se ve en la imágen anterior. Estas ondas *interfieren* entre si. Cuando las dos ondas están en fase, es decir, sus crestas o sus valles chocan, generann **interferencia constructiva**. En cambio cuando están en desfase, que es cuando la cresta de una choca con el valle de la otra generan **interferencia destructiva**. Cuando las ondas se reinforcan, se obtiene una luz brillante, mientras que cuando se cancelan se genera un punto obscuro, generando lo que se conoce como **patrón de interferencia**.
 
 <img src="https://github.com/JacquelineLira/Patron-de-Interferencia/blob/main/img/interf.png" width="400" />
 
