@@ -9,14 +9,14 @@
 * [Instalación](#instalación)
 * [Contacto](#contacto)
 ## Información General
-Teoría detrás del proyecto
+El experimento de la doble rendija, o experimento de Young, es un experimento en dónde se hace pasar una fuente de luz por una pared con dos rendijas. Cada una de estas rendijas produce una nueva onda, como se ve en la imágen inferior. Estas ondas *interfieren* entre ellas, creando un patrón de interferencia. Cuando las dos ondas están en fase, es decir, sus crestas chocan o sus valles chocan, crean **interferencia constructiva**. En cambio cuando la cresta de una choca con el valle de la otra, en desfase, genera **interferencia destructiva**. En dónde las ondas se reinforcan, se obtiene una luz brillante, mientras que en dónde se cancelan se genera un punto obscuro, generando lo que se conoce como **patrón de interferencia**.
 ## Funcionamiento
 Dentro del programa, algunos parámetros que se le pueden cambiar son:
 * **D**, la distancia entre la pared y la pantalla
-* **d**, la intensidad entre las dos rendijas
-* **a**, la intensidad de la onda
+* **d**, la distancia entre las dos rendijas
+* **a**, la intensidad de la onda fuente
 ## Ejemplos
-A continuación se muestra el patrón de interferencia de la onda cuando se varia la distancia.
+A continuación se muestra el patrón de interferencia de la onda cuando se varía la distancia entre las rendijas.
 * 0.5 metros
 
 ![](./img/patron1.png)
